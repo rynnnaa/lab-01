@@ -3,9 +3,6 @@ body {
   max-width: 767px;
 }
 
-
-
-
 @media (min-width: 768px) {
   section {
     width: 1500px;
