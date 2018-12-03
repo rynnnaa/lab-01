@@ -1,0 +1,54 @@
+body {
+  width: 480px;
+}
+
+div {
+  display: block;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+#first {
+  width: 100%;
+  height: 75px;
+  line-height: 75px;
+  background-color: lightskyblue
+}
+
+#second {
+  width: 100%;
+  height: 150px;
+  float: left;
+  line-height: 150px;
+  background-color: lightsalmon
+}
+
+#third, #fourth {
+  width: 100%;
+  height: 125px;
+  line-height: 125px;
+  background-color: aquamarine
+}
+
+#section2{
+  width: 100%;
+}
+#fifth, #sixth, #seventh, #eighth {
+  width: 50%;
+  height: 250px;
+  line-height: 250px;
+  float: left;
+  background-color: lightgreen
+}
+
+#ninth {
+  display: block;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  width: 100%;
+  height: 80px;
+  line-height: 80px;
+  float: left;
+  background-color: lightpink
+}
