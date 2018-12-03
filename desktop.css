@@ -1,58 +1,57 @@
 @media (min-width: 768px){
-  body {
-      width: 960px;
-      text-align: center;
-      margin: auto;
-  }
-
-  div {
-      display: block;
-      border: 1px solid #000;
-      background: #888;
-      box-sizing: border-box;
+    body {
+        width: 960px;
+        text-align: center;
+        margin: auto;
     }
-  
-  #first {
-      width: 960px;
-      height: 100px;
-      line-height: 100px;
-      background-color: plum;
-  }
-  
-  #second {
-      width: 200px;
-      height: 600px;
-      line-height: 600px;
-      float: left;
-      background-color: palevioletred;
-  }
-  #third, #fourth {
-      width: 380px;
-      height: 200px;
-      line-height: 200px;
-      float: left;
-      background-color: palegreen;
-  }
-  
-  #section2{
-      width: 100%;
-  }
-  #fifth, #sixth, #seventh, #eighth {
-      width: 190px;
-      height: 250px;
-      line-height: 250px;
-      float: left;
-      background-color: peachpuff;
-  }
 
-  
-  #ninth {
-  
-      border: 1px solid #000;
-      background-color: powderblue;
-      width: 760px;
-      height: 150px;
-      line-height: 150px;
-      float: left;
-  }
+    div {
+        display: block;
+        border: 1px solid #000;
+        background: #888;
+        box-sizing: border-box;
+      }
+    
+    #first {
+        width: 960px;
+        height: 100px;
+        line-height: 100px;
+        background-color: lightblue
+    }
+    
+    #second {
+        width: 200px;
+        height: 600px;
+        line-height: 600px;
+        float: left;
+        background-color: lightgreen
+    }
+    #third, #fourth {
+        width: 380px;
+        height: 200px;
+        line-height: 200px;
+        float: left;
+        background-color: lightcoral
+    }
+    
+    #section2{
+        width: 100%;
+    }
+    #fifth, #sixth, #seventh, #eighth {
+        width: 190px;
+        height: 250px;
+        line-height: 250px;
+        float: left;
+        background-color: lightslategray
+    }
+    
+    #ninth {
+    
+        border: 1px solid #000;
+        background-color: paleturquoise;
+        width: 760px;
+        height: 150px;
+        line-height: 150px;
+        float: left;
+    }
 }
